@@ -1,3 +1,16 @@
 import turtle
 
 esguicho = turtle.Turtle()
+esguicho = turtle.Turtle()
+esguicho.forward(100)
+esguicho.left(60)
+esguicho.forward(100)
+esguicho.left(60)
+esguicho.forward(100)
+esguicho.left(60)
+esguicho.forward(100)
+esguicho.left(60)
+esguicho.forward(100)
+esguicho.left(60)
+esguicho.forward(100)
+esguicho.left(60)
